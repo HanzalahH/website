@@ -1,0 +1,1 @@
+mt.exe -manifest "firewall-pro.exe.manifest" -outputresource:"firewall-pro.exe;#1"
